@@ -23,8 +23,8 @@ The experiments use the quantized Llama 3.1 8B Instruct model and analyze their 
 1. **Clone this repository**
 
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd <YOUR_REPO_DIRECTORY>
+   git clone https://github.com/Alex2135/RAG_vs_CAG_analysis
+   cd RAG_vs_CAG_analysis
    ```
 
 2. **Set up the Poetry virtual environment**
