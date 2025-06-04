@@ -49,16 +49,7 @@ The experiments use the quantized Llama 3.1 8B Instruct model and analyze their 
 
 ## Running the Experiment
 
-**Notebook script:**
-`RAG vs CAG with Llama3.1 8b model.py`
-
-To execute the notebook as a script:
-
-```bash
-python "RAG vs CAG with Llama3.1 8b model.py"
-```
-
-Or open in Jupyter Lab (recommended for step-by-step analysis):
+Open in Jupyter Lab (recommended for step-by-step analysis):
 
 ```bash
 poetry run jupyter lab
